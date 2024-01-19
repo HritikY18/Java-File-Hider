@@ -1,23 +1,4 @@
-package model;
-
-public class Data {
-    private int id;
-    private String fileName;
-    private String path;
-    private String email;
-
-    public Data(int id, String fileName, String path) {
-        this.id = id;
-        this.fileName = fileName;
-        this.path = path;
-    }
-
-    public int getId() {
-        return id;
-    }
-
-    public void setId(int id) {
-        this.id = id;
+bhji
     }
 
     public String getFileName() {
